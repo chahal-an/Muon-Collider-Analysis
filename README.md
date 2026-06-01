@@ -69,4 +69,4 @@ This work was conducted as part of graduate research in the High Energy Physics 
 ## Author
 
 **Anmoldeep Chahal (Anmol)** — MS Physics, Northeastern University  
-[LinkedIn]((https://www.linkedin.com/in/contact-anmol-chahal/) |
+[LinkedIn](https://www.linkedin.com/in/contact-anmol-chahal/) |
