@@ -47,7 +47,7 @@ High-transverse-momentum muons (>500 GeV) fail reconstruction in dense hadronic 
 ```
 Muon-Collider-Analysis/
 │
-├── comp_physics.html        # Exported notebook (HTML)
+├── comp_physics.ipynb        # Python notebook
 ├── requirements.txt         # Dependencies
 └── README.md
 ```
