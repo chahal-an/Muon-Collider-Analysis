@@ -1,4 +1,3 @@
-# Muon-Collider-Analysis
 # Muon Collider Reconstruction Analysis
 
 Computational physics project analyzing muon reconstruction efficiency and jet clustering in a simulated high-energy muon collider environment. Built as part of detector R&D for the muon collider physics program.
@@ -44,12 +43,14 @@ High-transverse-momentum muons (>500 GeV) fail reconstruction in dense hadronic 
 ---
 
 ## Repository Structure
-muon-collider-analysis/
+
+```
+Muon-Collider-Analysis/
 │
-├── comp_physics.ipynb       # Main analysis notebook
+├── comp_physics.html        # Exported notebook (HTML)
 ├── requirements.txt         # Dependencies
 └── README.md
----
+```
 
 ## Requirements
 
@@ -68,4 +69,4 @@ This work was conducted as part of graduate research in the High Energy Physics 
 ## Author
 
 **Anmoldeep Chahal (Anmol)** — MS Physics, Northeastern University  
-[LinkedIn](https://linkedin.com/in/your-link-here) | [Portfolio](your-portfolio-url-here)
+[LinkedIn]((https://www.linkedin.com/in/contact-anmol-chahal/) |
